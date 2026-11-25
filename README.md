@@ -16,14 +16,8 @@
 
 <br />
 
-<img src="docs/screenshots/calculator.png" alt="AgriTrade Calculator: a multi-item sale with live totals" width="900" />
-
-<sub>The Calculator: one basket, live totals, one receipt.</sub>
-
-<br />
-
-> 📌 **This is a showcase repository.** It contains the write-up and screenshots only.
-> The source code is private. All screenshots use made-up demo data.
+> 📌 **This is a showcase repository.** It contains the write-up only.
+> The source code is private.
 
 </div>
 
@@ -37,7 +31,6 @@
 - [How It's Built](#how-its-built)
 - [Technical Highlights](#technical-highlights)
 - [Try It](#try-it)
-- [Screenshots](#screenshots)
 - [Roadmap](#roadmap)
 - [License](#license)
 
@@ -145,37 +138,6 @@ The app is live. Sign-up needs admin approval.
 - Want a look inside? Create an account, or message me for a demo login
 
 Source code is private, so there is nothing to clone or install here.
-
----
-
-## Screenshots
-
-All screens use fake demo data.
-
-<table>
-  <tr>
-    <td width="50%"><img src="docs/screenshots/dashboard.png" alt="Dashboard" /><br /><sub><b>Dashboard</b>: balance, stock value, today's sales, what to buy soon</sub></td>
-    <td width="50%"><img src="docs/screenshots/dashboard-dark.png" alt="Dashboard in dark mode" /><br /><sub><b>Dark mode</b>: light, dark or follow the device</sub></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="docs/screenshots/receipt.png" alt="Receipt" /><br /><sub><b>Receipt</b>: reprint any record from the Ledger Book</sub></td>
-    <td width="50%"><img src="docs/screenshots/ledger.png" alt="Ledger Book" /><br /><sub><b>Ledger Book</b>: period views, search, running balance</sub></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="docs/screenshots/inventory.png" alt="Inventory" /><br /><sub><b>Inventory</b>: stock health, value, top sellers, bags</sub></td>
-    <td width="50%"><img src="docs/screenshots/insights.png" alt="Insights" /><br /><sub><b>Insights</b>: money flow by month and by commodity</sub></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="docs/screenshots/admin.png" alt="Admin approvals" /><br /><sub><b>Admin</b>: approve or decline new owners</sub></td>
-    <td width="50%"><img src="docs/screenshots/register.png" alt="Sign-up validation" /><br /><sub><b>Sign-up checks</b>: Myanmar phone, easy password, confirm password</sub></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="docs/screenshots/mobile.png" alt="Calculator on a phone" width="300" /><br /><sub><b>On a phone</b>: the Calculator, same bill</sub></td>
-    <td width="50%"><img src="docs/screenshots/landing.png" alt="Landing page" /><br /><sub><b>Landing page</b>: public, before sign-in</sub></td>
-  </tr>
-</table>
-
-<sub>Screenshots were taken from the real app running against a demo data set. The Calculator bill is pre-filled, the receipt is a reprint, and the sign-up form is filled with wrong values on purpose to show the checks.</sub>
 
 ---
 
