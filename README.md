@@ -6,6 +6,10 @@
 
 **A ledger-first app for Myanmar commodity traders: sell, buy, and the maths does itself.**
 
+[![Open the live app](https://img.shields.io/badge/%F0%9F%94%97%20Live%20app-open%20now-2f6f73?style=for-the-badge)](https://agritrade.kmtlabs.workers.dev)
+
+<sub>👉 <a href="https://agritrade.kmtlabs.workers.dev">agritrade.kmtlabs.workers.dev</a> · sign-up needs admin approval</sub>
+
 ![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.7-3178C6?logo=typescript&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-8-646CFF?logo=vite&logoColor=white)
