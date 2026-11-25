@@ -164,11 +164,12 @@ Source code is private, so there is nothing to clone or install here.
     <td width="50%"><a href="docs/screenshots/inventory.webp"><img src="docs/screenshots/inventory.webp" alt="Inventory" /></a><br /><sub><b>Inventory</b>: stock health, stock value, top sellers, and a low-stock level for each item</sub></td>
   </tr>
   <tr>
-    <td colspan="2" align="center"><a href="docs/screenshots/insights.webp"><img src="docs/screenshots/insights.webp" alt="Insights" width="75%" /></a><br /><sub><b>Insights</b>: money flow by month, and bought, sold, revenue and net for each commodity</sub></td>
+    <td width="50%"><a href="docs/screenshots/insights.webp"><img src="docs/screenshots/insights.webp" alt="Insights" /></a><br /><sub><b>Insights</b>: money flow by month, and bought, sold, revenue and net for each commodity</sub></td>
+    <td width="50%"><a href="docs/screenshots/profile.webp"><img src="docs/screenshots/profile.webp" alt="My Profile" /></a><br /><sub><b>My Profile</b>: business details, a hidden shop code for cashiers, and the team list</sub></td>
   </tr>
 </table>
 
-<sub>Screenshots come from a test account with sample data, so some figures are not realistic. Click any image to enlarge.</sub>
+<sub>Screenshots come from a test account with sample data, so some figures are not realistic. Phone numbers are blurred. Click any image to enlarge.</sub>
 
 ---
 
