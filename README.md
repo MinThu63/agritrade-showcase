@@ -10,6 +10,12 @@
 
 <sub>👉 <a href="https://agritrade.kmtlabs.workers.dev">agritrade.kmtlabs.workers.dev</a> · sign-up needs admin approval</sub>
 
+<br />
+
+<a href="https://agritrade.kmtlabs.workers.dev"><img src="docs/screenshots/homepage.webp" alt="AgriTrade landing page" width="900" /></a>
+
+<sub>The public landing page. Click to open the live app.</sub>
+
 ![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.7-3178C6?logo=typescript&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-8-646CFF?logo=vite&logoColor=white)
@@ -20,7 +26,7 @@
 
 <br />
 
-> 📌 **This is a showcase repository.** It contains the write-up only.
+> 📌 **This is a showcase repository.** It contains the write-up and screenshots only.
 > The source code is private.
 
 </div>
@@ -35,6 +41,7 @@
 - [How It's Built](#how-its-built)
 - [Technical Highlights](#technical-highlights)
 - [Try It](#try-it)
+- [Screenshots](#screenshots)
 - [Roadmap](#roadmap)
 - [License](#license)
 
@@ -142,6 +149,26 @@ The app is live. Sign-up needs admin approval.
 - Want a look inside? Create an account, or message me for a demo login
 
 Source code is private, so there is nothing to clone or install here.
+
+---
+
+## Screenshots
+
+<table>
+  <tr>
+    <td width="50%"><a href="docs/screenshots/dashboard.webp"><img src="docs/screenshots/dashboard.webp" alt="Dashboard" /></a><br /><sub><b>Dashboard</b>: running balance, stock value, today's sales and a "Buy soon" list at a glance</sub></td>
+    <td width="50%"><a href="docs/screenshots/calculator.webp"><img src="docs/screenshots/calculator.webp" alt="Calculator" /></a><br /><sub><b>Calculator</b>: tap items to build a Sale or Purchase bill, live totals, one printable receipt</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="docs/screenshots/ledger.webp"><img src="docs/screenshots/ledger.webp" alt="Ledger Book" /></a><br /><sub><b>Ledger Book</b>: every trade in one dated book, with period views, search, CSV download and receipt reprint</sub></td>
+    <td width="50%"><a href="docs/screenshots/inventory.webp"><img src="docs/screenshots/inventory.webp" alt="Inventory" /></a><br /><sub><b>Inventory</b>: stock health, stock value, top sellers, and a low-stock level for each item</sub></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><a href="docs/screenshots/insights.webp"><img src="docs/screenshots/insights.webp" alt="Insights" width="75%" /></a><br /><sub><b>Insights</b>: money flow by month, and bought, sold, revenue and net for each commodity</sub></td>
+  </tr>
+</table>
+
+<sub>Screenshots come from a test account with sample data, so some figures are not realistic. Click any image to enlarge.</sub>
 
 ---
 
